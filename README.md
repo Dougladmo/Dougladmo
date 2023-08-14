@@ -10,10 +10,9 @@
 
 ## 🙋‍♂️ Sobre mim
 
-Atualmente estou cursando Bacharel em Ciência da computação na Universidade da Amazônia(UNAMA) em belém/PA.
-Esses projetos são feitos por mim seja para cursos, treinos ou pra trabalhos da faculdade. Atualmente possuo conhecimentos na area de front-end.
-pretendo começar na área de tecnologia focando na parte fullstack para adquirir conhecimentos de tecnologias tanto front quanto back-end
-futuramento com mais experiencia gostaria muito de um dia poder focar na área de Inteligencias artificiais e robotica.
+Apaixonado sobre tecnologia e futuro atualmente estou cursando Ciência da Computação na Universidade da Amazônia(UNAMA) em Belém/PA.
+Meu objetivo atual é me tornar um desenvolvedor fullstack para dominar tanto o front-end quanto
+back-end. No futuro, pretendo explorar Inteligência Artificial e Robótica.
 
 ## ⭐ Contact me
 
