@@ -7,12 +7,6 @@
 ## 👨🏽‍💻 Tenho conhecimentos
 
 <img alt='React.js' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<br>
-<div align= center>
-  <a href="https://github.com/seu-usuário-aqui">
-  <img height="190em" src="https://github-readme-stats-Dougladmo.vercel.app/api/top-langs/?username=Dougladmo&layout=compact&langs_count=7&theme=react" alt="tabela       Linguagens utilizadas"/>
-  <img height="190em" src="https://github-readme-stats-Dougladmo.vercel.app/api?username=Ed1Abreu&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="Tabela total de contribuições"/>
-</div> 
 
 ## 🙋‍♂️ Sobre mim
 
