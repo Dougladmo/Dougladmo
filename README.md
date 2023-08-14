@@ -15,7 +15,15 @@
 <a href = "mailto:douglasdmoliver@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/douglas-oliveira-5927751b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
- 
+
+ ### My Projects:
+- [Tom's Jazz](https://github.com/Dougladmo/Tom-Jazz)
+- [DevLink](https://github.com/Dougladmo/DevLink)
+- [Galleria](https://github.com/Dougladmo/galleria)
+- [Costs](https://github.com/Dougladmo/Costs)
+- [X-men seleção](https://github.com/Dougladmo/X-men)
+- [Relógio Digital](https://github.com/Dougladmo/digital-watch)
+
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=FF4500&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -25,6 +33,10 @@
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### About me:
+
+Passionate about evolution and technology, I am currently studying Computer Science at UNAMA in Belém/PA. I focus on front-end but my current goal is to become a fullstack developer to master both front-end and back-end. In the future, I plan to explore Artificial Intelligence and Robotics.
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
