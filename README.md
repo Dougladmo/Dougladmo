@@ -20,8 +20,8 @@
 - [DevLink](https://github.com/Dougladmo/DevLink)
 - [Galleria](https://github.com/Dougladmo/galleria)
 - [Costs](https://github.com/Dougladmo/Costs)
-- [X-men seleção](https://github.com/Dougladmo/X-men)
-- [Relógio Digital](https://github.com/Dougladmo/digital-watch)
+- [X-men selection](https://github.com/Dougladmo/X-men)
+- [Watch Digital](https://github.com/Dougladmo/digital-watch)
 
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=FF4500&labelColor=0D1117)&nbsp;
