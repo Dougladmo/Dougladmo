@@ -19,7 +19,7 @@
 - [Tom's Jazz](https://github.com/Dougladmo/Tom-Jazz)
 - [DevLink](https://github.com/Dougladmo/DevLink)
 - [Galleria](https://github.com/Dougladmo/galleria)
-- [Costs](https://github.com/Dougladmo/Costs)
+- [Costs](https://github.com/Dougladmo/Costs) - React CRUD
 - [X-men selection](https://github.com/Dougladmo/X-men)
 - [Digital Watch](https://github.com/Dougladmo/digital-watch)
 
