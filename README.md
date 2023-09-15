@@ -16,9 +16,11 @@
  </div>
 
  ### My Projects:
+- [Costs](https://github.com/Dougladmo/Costs)
+- [Movai Advocacia](https://movai-advocacia.vercel.app/)
 - [Instagram](https://github.com/Dougladmo/Clone-insta)
 - [Apple](https://github.com/Dougladmo/Clone-apple)
-- [Costs](https://github.com/Dougladmo/Costs) - React CRUD
+- [iPhone 13](https://github.com/Dougladmo/iPhone-13)
 - [Galleria](https://github.com/Dougladmo/galleria)
 - [hDC Agency](https://github.com/Dougladmo/hDC-Agency)
 - [Tom's Jazz](https://github.com/Dougladmo/Tom-Jazz)
