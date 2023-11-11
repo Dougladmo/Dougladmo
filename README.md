@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MY%20NAME%20IS%20DOUGLAS;I'M%2021%20YEARS%20OLD;FULL-STACK%20JUNIOR%20WEB%20DEVELOPER; PROGRAMMER%20;I'M%20FROM%20BRAZIL;COMPUTER%20SCIENCE%20STUDENT;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=MY%20NAME%20IS%20DOUGLAS%20OLIVEIRA;I'M%2021%20YEARS%20OLD;FULL-STACK%20JUNIOR%20WEB%20DEVELOPER; PROGRAMMER%20;I'M%20FROM%20BRAZIL;COMPUTER%20SCIENCE%20STUDENT;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dougladmo&bg_color=0d1117&color=483D8B&line=4B0082&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
