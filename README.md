@@ -9,9 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dougladmo&bg_color=0d1117&color=483D8B&line=4B0082&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Dougladmo&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=483D8B&text_color=ffffff&bg_color=0d1117" alt="Douglas oliveira github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougladmo&layout=compact&hide_border=true&title_color=483D8B&text_color=ffffff&bg_color=0d1117" />
