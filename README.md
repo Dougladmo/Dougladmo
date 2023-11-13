@@ -49,11 +49,14 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
 ![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=pink)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=yellow)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Styled-components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
 
 ### About me:
 
