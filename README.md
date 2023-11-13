@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  <h5 align="center">Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> </h5> 
+  <h5 align="center">Connect with me ![Handshake](https://github.com/Dougladmo/Dougladmo/assets/100490271/130f9799-a49c-4f0f-ac93-223604053025) </h5> 
 </div>
 
 <div align="center"> 
