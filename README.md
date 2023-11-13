@@ -16,6 +16,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougladmo&layout=compact&hide_border=true&title_color=483D8B&text_color=ffffff&bg_color=0d1117" />
 </div>
 
+<div align="center">
+  
+  <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
+</div>
 
 <div align="center"> 
 <a href = "mailto:douglasdmoliver@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
