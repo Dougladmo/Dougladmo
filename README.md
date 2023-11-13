@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  <h5 align="center">Connect with me <img src="https://github.com/Dougladmo/Dougladmo/assets/100490271/130f9799-a49c-4f0f-ac93-223604053025"> </h5> 
+  <h5 align="center">Connect with me <img src="https://github.com/Dougladmo/Dougladmo/assets/100490271/130f9799-a49c-4f0f-ac93-223604053025" width="30px"> </h5> 
 </div>
 
 <div align="center"> 
