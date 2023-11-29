@@ -28,15 +28,15 @@
  </div>
 
  ### My Projects:
-- [Costs](https://github.com/Dougladmo/Costs)
 - [Movai Advocacia](https://movai-advocacia.vercel.app/)
+- [Your Palette](https://your-palette.vercel.app/)
+- [Starbucks redesign](https://starbucks-redesign.vercel.app/)
+- [Calculator](https://react-calculator-js.vercel.app/)
+- [Costs](https://github.com/Dougladmo/Costs)
 - [Instagram](https://github.com/Dougladmo/Clone-insta)
 - [Apple](https://github.com/Dougladmo/Clone-apple)
 - [iPhone 13](https://github.com/Dougladmo/iPhone-13)
-- [Galleria](https://github.com/Dougladmo/galleria)
 - [hDC Agency](https://github.com/Dougladmo/hDC-Agency)
-- [Tom's Jazz](https://github.com/Dougladmo/Tom-Jazz)
-- [DevLink](https://github.com/Dougladmo/DevLink)
 - [X-men selection](https://github.com/Dougladmo/X-men)
 
 ### Main skills:
