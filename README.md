@@ -28,6 +28,7 @@
  </div>
 
  ### My Projects:
+<div>
 - [Movai Advocacia](https://movai-advocacia.vercel.app/)
 - [Your Palette](https://your-palette.vercel.app/)
 - [Starbucks redesign](https://starbucks-redesign.vercel.app/)
@@ -38,6 +39,7 @@
 - [iPhone 13](https://github.com/Dougladmo/iPhone-13)
 - [hDC Agency](https://github.com/Dougladmo/hDC-Agency)
 - [X-men selection](https://github.com/Dougladmo/X-men)
+</div>
 
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=FF4500&labelColor=0D1117)&nbsp;
