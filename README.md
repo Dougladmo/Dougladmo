@@ -1,12 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
-<p align="center">
-<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px align="center"></picture><b></b>
-</p>
 
 <p align="center">
   <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
   <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=MY%20NAME%20IS%20DOUGLAS%20OLIVEIRA;I'M%2021%20YEARS%20OLD;FRONT-END%20WEB%20DEVELOPER; PROGRAMMER%20;I'M%20FROM%20BRAZIL;COMPUTER%20SCIENCE%20STUDENT;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=MY%20NAME%20IS%20DOUGLAS%20OLIVEIRA;I'M%2022%20YEARS%20OLD;FRONT-END%20&%20MOBILE%20DEVELOPER; PROGRAMMER%20;I'M%20FROM%20BRAZIL;COMPUTER%20SCIENCE%20STUDENT;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dougladmo&bg_color=0d1117&color=483D8B&line=4B0082&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -23,7 +20,7 @@
 
 <div align="center">
 <a href = "mailto:douglasdmoliver@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/douglas-oliveira-5927751b2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/douglas-moura-de-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <a href="https://instagram.com/dougladmo_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px" target="_blank"></a>
  </div>
 
