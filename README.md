@@ -10,14 +10,11 @@
 
 ---
 
-## 🧊 Painel 3D das Contribuições
+#### :memo: Misc
 
-<p align="center">
-  <!-- Após rodar a Action uma vez, este arquivo passa a existir -->
-  <a href="https://github.com/Dougladmo/Dougladmo/actions">
-    <img height="300" src="https://raw.githubusercontent.com/Dougladmo/Dougladmo/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-  </a>
-</p>
+* [my LGTM collections](https://yoshi389111.github.io/LGTM/lgtm.html)
+
+![](./profile-3d-contrib/profile-green-dual.svg)
 
 ---
 
