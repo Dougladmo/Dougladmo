@@ -10,10 +10,6 @@
 
 ---
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
 ## 📈 Atividade no GitHub
 
 <p align="center">
@@ -71,6 +67,10 @@ Apaixonado por evolução e tecnologia. Estudante de **Ciência da Computação 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dougladmo&style=for-the-badge&color=8A2BE2" alt="profile views"/>
 </p>
+
+---
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F0C29,50:302B63,100:483D8B&section=footer"/>
