@@ -17,13 +17,19 @@
 
 ---
 
-## 🧊 Painel com Gráficos e 3D
+## 🧊 Toque 3D no Perfil
 
 <p align="center">
-  <a href="#">
-    <img height="300" src="https://raw.githubusercontent.com/Dougladmo/Dougladmo/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-  </a>
+  <img src="https://cdn.dribbble.com/users/285475/screenshots/2083086/3d_cube.gif" width="300px" alt="3D Cube"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_3d.gif" width="300px" alt="3D Developer"/>
+</p>
+
+---
+
+## 📈 Atividade no GitHub
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -38,10 +44,6 @@
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougladmo&layout=compact&hide_border=true&title_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dougladmo&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=10&margin-h=10" alt="trophies" /></a>
 </p>
 
 ---
@@ -85,21 +87,13 @@ Apaixonado por evolução e tecnologia. Estudante de **Ciência da Computação 
 
 ---
 
-## 🐍 Snake (Contribuições)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-</picture>
-
----
-
 ## 👀 Visitantes
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{Dougladmo}/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Dougladmo&style=for-the-badge&color=8A2BE2" alt="profile views"/>
 </p>
+
+---
 
 <!-- FOOTER ANIMADO -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F0C29,50:302B63,100:483D8B&section=footer"/>
