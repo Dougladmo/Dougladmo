@@ -17,35 +17,77 @@
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dougladmo&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Dougladmo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=8A2BE2&currStreakLabel=FFFFFF&sideNums=DDDDDD&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <a href="https://github.com/Dougladmo">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dougladmo&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dougladmo">
+    <img height="180em" src="https://streak-stats.demolab.com?user=Dougladmo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=FFFFFF&sideNums=DDDDDD&currStreakNum=FFFFFF&sideLabels=DDDDDD&dates=AAAAAA" alt="GitHub Streak" />
+  </a>
 </div>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dougladmo&layout=compact&hide_border=true&title_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117" alt="Top Langs" />
+  <a href="https://github.com/Dougladmo">
+    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dougladmo&layout=compact&hide_border=true&title_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117&langs_count=8" alt="Top Langs" />
+  </a>
 </p>
 
 ---
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,styledcomponents,materialui,bootstrap,py,django,aws,firebase,vercel,git,github,figma&perline=9" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td align="center" width="140"><b>Mobile</b></td>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td align="center" width="140"><b>Cloud & Deploy</b></td>
+    <td align="center" width="140"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js" /><br/>
+      <img src="https://skillicons.dev/icons?i=ts,react,nextjs" /><br/>
+      <img src="https://skillicons.dev/icons?i=redux,tailwind,styledcomponents" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" /><br/>
+      <sub>React Native</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,py,django" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,firebase,vercel" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,figma" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 Projetos em Destaque
-- **Movai Advocacia** → https://movai-advocacia.vercel.app/
-- **Your Palette** → https://your-palette.vercel.app/
-- **Starbucks Redesign** → https://starbucks-redesign.vercel.app/
-- **Calculator** → https://react-calculator-js.vercel.app/
-- **Costs** → https://github.com/Dougladmo/Costs
-- **Instagram Clone** → https://github.com/Dougladmo/Clone-insta
-- **Apple Clone** → https://github.com/Dougladmo/Clone-apple
-- **iPhone 13** → https://github.com/Dougladmo/iPhone-13
-- **hDC Agency** → https://github.com/Dougladmo/hDC-Agency
-- **X-Men Selection** → https://github.com/Dougladmo/X-men
+
+<div align="center">
+
+### 🌐 Projetos Online
+
+[![Movai Advocacia](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=movai-advocacia&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://movai-advocacia.vercel.app/)
+[![Your Palette](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=your-palette&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://your-palette.vercel.app/)
+[![Starbucks Redesign](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Starbucks-redesign&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://starbucks-redesign.vercel.app/)
+[![Calculator](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=react-calculator&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://react-calculator-js.vercel.app/)
+
+### 📂 Repositórios
+
+[![Costs](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Costs&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Costs)
+[![Clone Insta](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Clone-insta&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Clone-insta)
+[![Clone Apple](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Clone-apple&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Clone-apple)
+[![iPhone 13](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=iPhone-13&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/iPhone-13)
+[![hDC Agency](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=hDC-Agency&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/hDC-Agency)
+[![X-Men](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=X-men&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/X-men)
+
+</div>
 
 ---
 
