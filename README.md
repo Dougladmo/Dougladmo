@@ -20,9 +20,7 @@
   <a href="https://github.com/Dougladmo">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dougladmo&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/Dougladmo">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Dougladmo&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=FFFFFF&sideNums=DDDDDD&currStreakNum=FFFFFF&sideLabels=DDDDDD&dates=AAAAAA" alt="GitHub Streak" />
-  </a>
+  
 </div>
 
 <p align="center">
