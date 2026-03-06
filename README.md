@@ -75,39 +75,30 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://befest.vercel.app/">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=befest&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true" />
-        <br/>
-        <b>Be Fest</b> — em produção
+        <img src="https://img.shields.io/badge/Be_Fest-8A2BE2?style=for-the-badge&labelColor=0d1117" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://douglas.nobuggy.com.br/">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=portfolio-next&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true" />
-        <br/>
-        <b>Portfólio</b> — projeto pessoal
+        <img src="https://img.shields.io/badge/Meu-Portfólio-8A2BE2?style=for-the-badge&labelColor=0d1117" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://psicozen-hml.vercel.app/">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=psicozen&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true" />
-        <br/>
-        <b>PsicoZen</b> — saúde mental
+        <img src="https://img.shields.io/badge/PsicoZen-8A2BE2?style=for-the-badge&labelColor=0d1117" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://www.npmjs.com/package/formdata-io">
         <img src="https://img.shields.io/npm/v/formdata-io?style=for-the-badge&color=8A2BE2&labelColor=0d1117&label=formdata-io" />
-        <br/><br/>
-        <img src="https://img.shields.io/npm/dm/formdata-io?style=flat-square&color=DDDDDD&labelColor=0d1117" />
         <br/>
-        <b>formdata-io</b> — lib npm
+        <img src="https://img.shields.io/npm/dm/formdata-io?style=flat-square&color=DDDDDD&labelColor=0d1117" />
       </a>
     </td>
   </tr>
 </table>
-
 
 ### 📂 Repositórios ( Proj Pessoais - Antigos)
 
