@@ -71,19 +71,16 @@
 
 ### 🌐 Projetos Online
 
-[![Movai Advocacia](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=movai-advocacia&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://movai-advocacia.vercel.app/)
-[![Your Palette](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=your-palette&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://your-palette.vercel.app/)
-[![Starbucks Redesign](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Starbucks-redesign&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://starbucks-redesign.vercel.app/)
-[![Calculator](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=react-calculator&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://react-calculator-js.vercel.app/)
+[![Be fest](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=movai-advocacia&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://befest.vercel.app/)
+[![Meu portfólio online](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=your-palette&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://douglas.nobuggy.com.br/)
+[![Starbucks Redesign "Projeto pessoal"](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Starbucks-redesign&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://starbucks-redesign.vercel.app/)
 
-### 📂 Repositórios
+### 📂 Repositórios (Antigos)
 
-[![Costs](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Costs&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Costs)
 [![Clone Insta](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Clone-insta&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Clone-insta)
 [![Clone Apple](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Clone-apple&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Clone-apple)
 [![iPhone 13](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=iPhone-13&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/iPhone-13)
-[![hDC Agency](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=hDC-Agency&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/hDC-Agency)
-[![X-Men](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=X-men&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/X-men)
+[![Calculator](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=react-calculator&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://react-calculator-js.vercel.app/)
 
 </div>
 
