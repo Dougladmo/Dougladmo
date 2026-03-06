@@ -71,9 +71,9 @@
 
 ### 🌐 Projetos Online
 
-[![Be fest](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=movai-advocacia&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://befest.vercel.app/)
-[![Meu portfólio online](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=your-palette&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://douglas.nobuggy.com.br/)
-[![Starbucks Redesign "Projeto pessoal"](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Starbucks-redesign&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://starbucks-redesign.vercel.app/)
+[![Be fest - em prod](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=movai-advocacia&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://befest.vercel.app/)
+[![Meu portfólio online - Projeto pessoal](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=your-palette&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://douglas.nobuggy.com.br/)
+[![Starbucks Redesign - Projeto pessoal](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Starbucks-redesign&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://starbucks-redesign.vercel.app/)
 
 ### 📂 Repositórios (Antigos)
 
