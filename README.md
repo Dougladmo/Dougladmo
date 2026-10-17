@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/douglas-moura-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/douglas-desenvolvedor-software/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:douglasdmoliver@gmail.com"><img src="https://img.shields.io/badge/Email-1d1d1f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Bel%C3%A9m%2FPA%2C%20Brazil-1d1d1f?style=flat-square" alt="Belém/PA, Brazil" />
 </p>
@@ -18,9 +18,12 @@
 
 Software engineer from Belém, Brazil, building production AI systems end to end: LLM pipelines, agent workflows, and the full-stack products around them.
 
-- **Now:** Full-Stack & Applied AI Engineer at **[Salesbud](https://salesbud.com.br)**, where I'm the **MIT Workstream Lead**: I own the AI pipeline that generates ERP implementation documents for an enterprise client, from prompt design and evaluation to cost and reliability in production.
-- **Before:** frontend at PepperLaw AI, co-founder of Nobuggy, mobile and backend roles, and a top-ranked freelancer on Workana (Hero tier).
-- **Education:** B.Sc. in Computer Science (UNAMA) · currently pursuing a degree in Software Engineering.
+- **Now:** Full-Stack & Applied AI Engineer and **MITs Workstream Lead** at **[Salesbud](https://salesbud.com.br)**. I lead the AI platform that speeds up TOTVS ERP rollouts (agents, RAG pipelines, backend, frontend and cloud), cutting the implementation cycle from ~3 months to ~1.
+  - Cut AI processing cost of a core pipeline by ~81% and document ingestion time by ~78% (2h → 20–30 min).
+- **Research:** Summer Research Collaborator at the **University of Oxford** (2026) with Prof. Nobuko Yoshida, on Multiparty Session Types for verified distributed protocols.
+- **Before:** PepperLaw AI, co-founder of Nobuggy, mobile and backend roles, and Workana Hero tier (#245 of 11.76M freelancers worldwide).
+- **Awards:** 1st place, Ubiqua Hackathon (UNAMA, 2025).
+- **Education:** B.Sc. in Computer Science (UNAMA) · Software Engineering student (UNIPDS).
 
 ### Open source
 
