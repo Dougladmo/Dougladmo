@@ -1,91 +1,40 @@
-<h1 align="center">Douglas Moura de Oliveira</h1>
-
 <p align="center">
-  <a href="https://github.com/Dougladmo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=8A8FFF&center=true&vCenter=true&width=560&lines=Full-Stack+%26+Applied+AI+Software+Engineer;MIT+Workstream+Lead+%40+Salesbud;Building+open+source+for+AI+agents" alt="Full-Stack & Applied AI Software Engineer" />
-  </a>
+  <samp>
+    <a href="https://www.linkedin.com/in/douglas-desenvolvedor-software/">linkedin</a> .
+    <a href="mailto:douglasdmoliver@gmail.com">email</a> .
+    <a href="https://www.npmjs.com/~dougladmo">npm</a>
+  </samp>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/douglas-desenvolvedor-software/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:douglasdmoliver@gmail.com"><img src="https://img.shields.io/badge/Email-1d1d1f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Bel%C3%A9m%2FPA%2C%20Brazil-1d1d1f?style=flat-square" alt="Belém/PA, Brazil" />
-</p>
+# Hi, I'm Douglas 👋
 
----
+📍 **Belém, Brazil** | 🤖 **Applied AI engineer** | 🔬 **Oxford research collaborator**
 
-### About
+I build AI systems that run in production: agents, RAG pipelines, and the full-stack products around them. I like the unglamorous part best, making them reliable and cheap enough to keep running.
 
-Software engineer from Belém, Brazil, building **production AI systems end to end**: LLM pipelines, agent workflows, and the full-stack products around them. I care about shipping things that work in production and cost less to run.
+## Now
 
-#### Now · Salesbud
+I'm the **MITs Workstream Lead at [Salesbud](https://salesbud.com.br)**, where I lead the AI platform that helps TOTVS roll out its ERP faster. A rollout used to take about 3 months. It now takes about 1.
 
-**Full-Stack & Applied AI Engineer · MITs Workstream Lead** (2026 – present)
+Some things I'm proud of there:
 
-I lead the AI platform that speeds up **TOTVS ERP rollouts**, owning agents, RAG pipelines, backend, frontend and cloud from technical definition to production.
+- ⚡ Document ingestion went from **2 hours to 20–30 minutes**
+- 💸 AI cost on a core pipeline dropped **~81%**
+- 🧭 Leading a small team and owning the work from first idea to production
 
-- Implementation cycle cut from **~3 months to ~1 month**, with critical activities going from 480h to ~22h
-- **~81% lower** AI processing cost on a core pipeline (~US$1.1k → ~US$210/month)
-- **~78% faster** document ingestion: 2h → 20–30 min
-- Lead a team of two engineers and act as the main technical interface with the client
+## Research
 
-#### Research · University of Oxford
+🔬 In 2026 I joined **Prof. Nobuko Yoshida's group at the University of Oxford** as a summer research collaborator, working on **Multiparty Session Types**: a way to describe how services talk to each other and have the compiler prove they follow the protocol. I started from the papers, ran the Scribble → type-safe TypeScript toolchain end to end, and moved on to the OCaml tooling.
 
-**Summer Research Collaborator** (Apr – Jul 2026), with Prof. Nobuko Yoshida (Department of Computer Science).
-Multiparty Session Types: formal specification of message-passing protocols and code generation of type-safe TypeScript APIs from Scribble protocols, later contributing to the OCaml tooling.
+## Open source
 
-#### Experience
+- 🕸️ **[graph-eng](https://github.com/Dougladmo/graph-eng)** - turns a big task into a small graph of AI agents in Claude Code: cheap workers, strong reviewers, live dashboard ![stars](https://img.shields.io/github/stars/Dougladmo/graph-eng?style=flat-square&label=%E2%98%85&color=1d1d1f)
+- 📦 **[formdata-io](https://github.com/Dougladmo/formdata-io)** - `multipart/form-data` without the pain, front to back, with one-line uploads to S3 and Supabase ![npm](https://img.shields.io/npm/v/formdata-io?style=flat-square&color=CB3837&label=npm)
 
-| Period | Role | Where |
-| --- | --- | --- |
-| 2026 – now | MITs Workstream Lead · Full-Stack & Applied AI Engineer | Salesbud |
-| 2026 | Summer Research Collaborator | University of Oxford |
-| 2025 – 2026 | Full-Stack Software Engineer | PepperLaw AI |
-| 2025 – 2026 | Co-founder & Full-Stack Engineer | Nobuggy |
-| 2020 – 2025 | Freelance Full-Stack Engineer · Hero tier, #245 of 11.76M | Workana |
-| 2022 – 2025 | Frontend, mobile and backend roles | Casta Tecnologia, Avatech, C2A |
+## What I work with
 
-#### Education
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) ![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=flat-square) ![MCP](https://img.shields.io/badge/-MCP-1d1d1f?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Mastra](https://img.shields.io/badge/-Mastra-1d1d1f?style=flat-square) ![Langfuse](https://img.shields.io/badge/-Langfuse-0A0A0A?style=flat-square)
 
-- **B.Sc. in Computer Science**, UNAMA
-- **Software Engineering** (in progress), UNIPDS
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Open source
-
-| Project | What it does |
-| --- | --- |
-| **[graph-eng](https://github.com/Dougladmo/graph-eng)** | Claude Code plugin that turns a complex task into a small graph of agents: cheap workers, strong reviewers, every change verified by another agent, with a live dashboard. |
-| **[formdata-io](https://github.com/Dougladmo/formdata-io)** [![npm](https://img.shields.io/npm/v/formdata-io?style=flat-square&color=1d1d1f&label=npm)](https://www.npmjs.com/package/formdata-io) | TypeScript-first `multipart/form-data` for frontend and backend, with one-line uploads to AWS S3 and Supabase. |
-
-### Stack
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,py,ocaml" height="36" alt="TypeScript, JavaScript, Python, OCaml" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,materialui,redux" height="36" alt="React, Next.js, Vite, Tailwind, MUI, Redux" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,firebase" height="36" alt="Node.js, Express, Django, Firebase" /></td>
-  </tr>
-  <tr>
-    <td><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" height="36" alt="PostgreSQL, MySQL/MariaDB, MongoDB, Supabase" /></td>
-  </tr>
-  <tr>
-    <td><b>Cloud & infra</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,githubactions,gcp,azure,vercel" height="36" alt="AWS, Docker, GitHub Actions, GCP, Azure, Vercel" /><br/><sub>Lambda · ECS Fargate · S3 · SQS/SNS · Cognito · CDK (IaC) · serverless</sub></td>
-  </tr>
-  <tr>
-    <td><b>AI</b></td>
-    <td><img src="https://img.shields.io/badge/Anthropic-1d1d1f?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" /> <img src="https://img.shields.io/badge/OpenAI-1d1d1f?style=flat-square" alt="OpenAI" /> <img src="https://img.shields.io/badge/AWS%20Bedrock-1d1d1f?style=flat-square" alt="AWS Bedrock" /> <img src="https://img.shields.io/badge/Gemini-1d1d1f?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/MCP-1d1d1f?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/LangChain-1d1d1f?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Mastra-1d1d1f?style=flat-square" alt="Mastra" /> <img src="https://img.shields.io/badge/RAG-1d1d1f?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/Langfuse-1d1d1f?style=flat-square" alt="Langfuse" /> <img src="https://img.shields.io/badge/n8n-1d1d1f?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /><br/><sub>agents · RAG pipelines · prompt engineering & caching · evals · LLM cost optimization</sub></td>
-  </tr>
-  <tr>
-    <td><b>Quality & ops</b></td>
-    <td><img src="https://img.shields.io/badge/Datadog-1d1d1f?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" /> <img src="https://img.shields.io/badge/Langfuse-1d1d1f?style=flat-square" alt="Langfuse" /> <img src="https://img.shields.io/badge/Jest-1d1d1f?style=flat-square&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/Vitest-1d1d1f?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" /></td>
-  </tr>
-</table>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
