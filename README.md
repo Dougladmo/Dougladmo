@@ -22,7 +22,6 @@ Software engineer from Belém, Brazil, building production AI systems end to end
   - Cut AI processing cost of a core pipeline by ~81% and document ingestion time by ~78% (2h → 20–30 min).
 - **Research:** Summer Research Collaborator at the **University of Oxford** (2026) with Prof. Nobuko Yoshida, on Multiparty Session Types for verified distributed protocols.
 - **Before:** PepperLaw AI, co-founder of Nobuggy, mobile and backend roles, and Workana Hero tier (#245 of 11.76M freelancers worldwide).
-- **Awards:** 1st place, Ubiqua Hackathon (UNAMA, 2025).
 - **Education:** B.Sc. in Computer Science (UNAMA) · Software Engineering student (UNIPDS).
 
 ### Open source
