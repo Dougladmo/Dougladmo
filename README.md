@@ -1,139 +1,40 @@
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F0C29,50:302B63,100:483D8B&text=Douglas%20Moura%20de%20Oliveira&fontColor=FFFFFF&fontSize=42&fontAlign=50&fontAlignY=35&desc=Front-end%20%2B%20Mobile%20Developer%20%7C%20Bel%C3%A9m%20%E2%80%A2%20PA&descAlign=50&descAlignY=58"/>
-
-<!-- TYPING LINE -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=Crafting+delightful+UIs+%26+snappy+apps;React%2C+React+Native%2C+TypeScript+%2B+Testing;Computer+Science+Student%20%E2%80%A2%20Always%20learning;From%20Bel%C3%A9m%2FPA%2C%20Brazil%20%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
-  </a>
+  <samp>
+    <a href="https://www.linkedin.com/in/douglas-desenvolvedor-software/">linkedin</a> .
+    <a href="mailto:douglasdmoliver@gmail.com">email</a> .
+    <a href="https://www.npmjs.com/~dougladmo">npm</a>
+  </samp>
 </p>
 
----
+# Hi, I'm Douglas 👋
 
-## 📈 Atividade no GitHub
+📍 **Belém, Brazil** | 🤖 **Applied AI engineer** | 🔬 **Oxford research collaborator**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dougladmo&theme=github-dark&bg_color=0d1117&color=9E7BFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</p>
+I build AI systems that run in production: agents, RAG pipelines, and the full-stack products around them. I like the unglamorous part best, making them reliable and cheap enough to keep running.
 
-<div align="center">
-  <a href="https://github.com/Dougladmo">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dougladmo&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  
-</div>
+## Now
 
-<p align="center">
-  <a href="https://github.com/Dougladmo">
-    <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dougladmo&layout=compact&hide_border=true&title_color=8A2BE2&text_color=DDDDDD&bg_color=0d1117&langs_count=8" alt="Top Langs" />
-  </a>
-</p>
+I'm the **MITs Workstream Lead at [Salesbud](https://salesbud.com.br)**, where I lead the AI platform that helps TOTVS roll out its ERP faster. A rollout used to take about 3 months. It now takes about 1.
 
----
+Some things I'm proud of there:
 
-## 🧰 Tech Stack
+- ⚡ Document ingestion went from **2 hours to 20–30 minutes**
+- 💸 AI cost on a core pipeline dropped **~81%**
+- 🧭 Leading a small team and owning the work from first idea to production
 
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td align="center" width="140"><b>Mobile</b></td>
-    <td align="center" width="140"><b>Backend</b></td>
-    <td align="center" width="140"><b>Cloud & Deploy</b></td>
-    <td align="center" width="140"><b>Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js" /><br/>
-      <img src="https://skillicons.dev/icons?i=ts,react,nextjs" /><br/>
-      <img src="https://skillicons.dev/icons?i=redux,tailwind,styledcomponents" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" /><br/>
-      <sub>React Native</sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,py,django" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,firebase,vercel" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,figma" />
-    </td>
-  </tr>
-</table>
+## Research
 
----
+🔬 In 2026 I joined **Prof. Nobuko Yoshida's group at the University of Oxford** as a summer research collaborator, working on **Multiparty Session Types**: a way to describe how services talk to each other and have the compiler prove they follow the protocol. I started from the papers, ran the Scribble → type-safe TypeScript toolchain end to end, and moved on to the OCaml tooling.
 
-## 🔥 Projetos em Destaque
+## Open source
 
-<div align="center">
+- 🕸️ **[graph-eng](https://github.com/Dougladmo/graph-eng)** - turns a big task into a small graph of AI agents in Claude Code: cheap workers, strong reviewers, live dashboard ![stars](https://img.shields.io/github/stars/Dougladmo/graph-eng?style=flat-square&label=%E2%98%85&color=1d1d1f)
+- 📦 **[formdata-io](https://github.com/Dougladmo/formdata-io)** - `multipart/form-data` without the pain, front to back, with one-line uploads to S3 and Supabase ![npm](https://img.shields.io/npm/v/formdata-io?style=flat-square&color=CB3837&label=npm)
 
-### 🌐 Projetos Online
+## What I work with
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://befest.vercel.app/">
-        <img src="https://img.shields.io/badge/Be_Fest-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://douglas.nobuggy.com.br/">
-        <img src="https://img.shields.io/badge/Meu-Portfólio-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://psicozen-hml.vercel.app/">
-        <img src="https://img.shields.io/badge/PsicoZen-8A2BE2?style=for-the-badge&labelColor=0d1117" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://www.npmjs.com/package/formdata-io">
-        <img src="https://img.shields.io/npm/v/formdata-io?style=for-the-badge&color=8A2BE2&labelColor=0d1117&label=formdata-io" />
-        <br/>
-        <img src="https://img.shields.io/npm/dm/formdata-io?style=flat-square&color=DDDDDD&labelColor=0d1117" />
-      </a>
-    </td>
-  </tr>
-</table>
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-1A73E8?style=flat-square&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square) ![AWS Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=flat-square) ![MCP](https://img.shields.io/badge/-MCP-1d1d1f?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Mastra](https://img.shields.io/badge/-Mastra-1d1d1f?style=flat-square) ![Langfuse](https://img.shields.io/badge/-Langfuse-0A0A0A?style=flat-square)
 
-### 📂 Repositórios ( Proj Pessoais - Antigos)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-[![Starbucks Redesign](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Starbucks-redesign&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://starbucks-redesign.vercel.app/)
-[![Clone Insta](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Clone-insta&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Clone-insta)
-[![Clone Apple](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=Clone-apple&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/Clone-apple)
-[![iPhone 13](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=iPhone-13&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://github.com/Dougladmo/iPhone-13)
-[![Calculator](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Dougladmo&repo=react-calculator&bg_color=0d1117&title_color=8A2BE2&text_color=DDDDDD&icon_color=8A2BE2&hide_border=true)](https://react-calculator-js.vercel.app/)
-
-</div>
-
----
-
-## 📫 Contato
-<p align="center">
-  <a href="mailto:douglasdmoliver@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/douglas-moura-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/dougladmo_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-## 👨🏻‍💻 Sobre mim
-Apaixonado por evolução e tecnologia. Estudante de **Ciência da Computação (UNAMA • Belém/PA)**. Hoje foco em **Front-end e Mobile** e estou avançando para **Full-Stack** (Node.js, APIs, automações). Interesses futuros: **IA** e **Robótica**.
-
----
-
-## 👀 Visitantes
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dougladmo&style=for-the-badge&color=8A2BE2" alt="profile views"/>
-</p>
-
----
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<!-- FOOTER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F0C29,50:302B63,100:483D8B&section=footer"/>
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
